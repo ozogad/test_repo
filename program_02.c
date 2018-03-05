@@ -13,6 +13,7 @@
 
 #define MAX_LINE_LENGTH 100
 
+# This is a test
 int main(int argc, char *argv[]){
     //Variables used for pipes
 	int parent_pipe[2];
